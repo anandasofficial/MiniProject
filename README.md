@@ -1,1 +1,1 @@
-# MiniProject
+# MiniProject Fast Fix - Service Providing Platform
